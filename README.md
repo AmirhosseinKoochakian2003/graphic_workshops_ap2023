@@ -12,7 +12,6 @@ In the first workshop, we covered topics such as:
 - Events
 - CSS
 
-we have created a simple login menu.
 ![login menu](https://github.com/AmirhosseinKoochakian2003/graphic_workshops_ap2023/blob/master/pic/Screenshot%202023-08-02%20180902.png?raw=true)
 
 ---
